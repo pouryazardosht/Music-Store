@@ -1,0 +1,11 @@
+.textContainer {
+  text-align: center;
+  margin: 30px 0;
+  font-size: 1.9rem;
+  font-weight: bold;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

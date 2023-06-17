@@ -1,13 +1,5 @@
 .container {
-  position: relative;
   margin-top: 50px;
   width: 100%;
 }
-div p {
-  position: absolute;
-  top: 450px;
-  right: 80px;
-  font-size: 3rem;
-  font-weight: bold;
-  color: #ffffff;
-}
+

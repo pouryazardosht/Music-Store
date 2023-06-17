@@ -1,0 +1,34 @@
+.container {
+  width: 280px;
+  background-color: #282e3a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.62);
+  border-radius: 10px;
+}
+.container img {
+  margin-top: 30px;
+  width: 80%;
+  border-radius: 50%;
+}
+.container .text {
+  color: #5e93ff;
+  font-weight: 900;
+  font-size: 21px;
+  margin: 10px 0;
+}
+.buyButton {
+  color: #ffffff;
+  background-color: #326de3;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 5px 25px;
+  border: none;
+  margin-bottom: 20px;
+  cursor: pointer;
+  transition: 150ms ease-in-out;}
+.buyButton:hover {
+  scale: 1.05;
+}

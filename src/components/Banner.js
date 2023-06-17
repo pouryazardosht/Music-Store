@@ -5,9 +5,6 @@ const Banner = () => {
     return (
         <div>
             <img className={styles.container} src={bannerImg} alt="" />
-            <p >
-                خرید بهترین تجهیزات استودیی از ما
-            </p>
         </div>
     );
 };
